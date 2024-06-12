@@ -16,11 +16,14 @@ This is a small project for a DAG that saves data in a database and sends an ema
 * In the file hydraulicsystem.py, replace instances of 'your_email' with your actual email address.
 * In docker-composer.yaml, in the email configuration section, add your email address and your email app password (locate "app password" in your Gmail settings and create one).
 * In the AIRFLOW interface, navigate to "Admin" -> "Variables" and create the variables as shown in the image above.
-    ![path_file variable](https://github.com/ThiagoRMFagundes/airflow_hydraulic_system_monitor/blob/main/readme_files/airflow_variable.png)
+
+![path_file variable](https://github.com/ThiagoRMFagundes/airflow_hydraulic_system_monitor/blob/main/readme_files/airflow_variable.png)
 * Again in the AIRFLOW interface, go to "Admin" -> "Connections" and create the connections as shown in the image above.
-    ![fs_default connection](https://github.com/ThiagoRMFagundes/airflow_hydraulic_system_monitor/blob/main/readme_files/airflow_connection_file.png)
-    ![postgres connection](https://github.com/ThiagoRMFagundes/airflow_hydraulic_system_monitor/blob/main/readme_files/airflow_connection_postgres.png)
+
+![fs_default connection](https://github.com/ThiagoRMFagundes/airflow_hydraulic_system_monitor/blob/main/readme_files/airflow_connection_file.png)
+![postgres connection](https://github.com/ThiagoRMFagundes/airflow_hydraulic_system_monitor/blob/main/readme_files/airflow_connection_postgres.png)
 * Finally, activate your DAG as shown in the image above, execute hydraulicsystemgenerator.py, and observe the DAG in action.
-    ![.](https://github.com/ThiagoRMFagundes/airflow_hydraulic_system_monitor/blob/main/readme_files/activate_dag.png)
+
+![.](https://github.com/ThiagoRMFagundes/airflow_hydraulic_system_monitor/blob/main/readme_files/activate_dag.png)
 
 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/thiagormfagundes/).
