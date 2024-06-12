@@ -21,6 +21,6 @@ This is a small project for a DAG that saves data in a database and sends an ema
     ![fs_default connection](https://drive.google.com/file/d/1AcfIbPXZLU0chr83s5P_0weTQXWlZSNS/view?usp=sharing)
     ![postgres connection](https://drive.google.com/file/d/1oYW9pCAjEMGqN8irTOyrbl9VvVnlIS8E/view?usp=sharing)
 * Finally, activate your DAG as shown in the image above, execute hydraulicsystemgenerator.py, and observe the DAG in action.
-    ![Texto Alternativo](https://drive.google.com/file/d/1XA7jhMOa59n9ilvDVQcDLDtmsxE0eTq5/view?usp=drive_link)
+    ![.](https://drive.google.com/file/d/1XA7jhMOa59n9ilvDVQcDLDtmsxE0eTq5/view?usp=drive_link)
 
 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/thiagormfagundes/).
