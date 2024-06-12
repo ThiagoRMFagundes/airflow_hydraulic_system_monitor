@@ -1,4 +1,4 @@
-# airflow_hydraulic_system_monitor
+# Airflow hydraulic system monitor
 
 This is a small project for a DAG that saves data in a database and sends an email depending on the temperature of a fake hydraulic system data.
 
@@ -22,7 +22,7 @@ This is a small project for a DAG that saves data in a database and sends an ema
 
 ![fs_default connection](https://github.com/ThiagoRMFagundes/airflow_hydraulic_system_monitor/blob/main/readme_files/airflow_connection_file.png)
 ![postgres connection](https://github.com/ThiagoRMFagundes/airflow_hydraulic_system_monitor/blob/main/readme_files/airflow_connection_postgres.png)
-* Finally, activate your DAG as shown in the image above, execute hydraulicsystemgenerator.py, and observe the DAG in action.
+* Finally, activate your DAG as shown in the image above and run hydraulicsystemgenerator.py, and observe the DAG in action.
 
 ![.](https://github.com/ThiagoRMFagundes/airflow_hydraulic_system_monitor/blob/main/readme_files/activate_dag.png)
 
