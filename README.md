@@ -3,7 +3,7 @@
 This is a small project for a DAG that saves data in a database and sends an email depending on the temperature of a fake hydraulic system data.
 
 ## The GIF above shows how the DAG works:
-![Alt Text](url_do_seu_gif)
+![.](https://github.com/ThiagoRMFagundes/airflow_hydraulic_system_monitor/blob/main/readme_files/gif.gif)
 
 
 ### To execute this code on your computer, you will need to follow the steps outlined below:
