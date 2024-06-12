@@ -14,7 +14,7 @@ This is a small project for a DAG that saves data in a database and sends an ema
 * Execute the command: docker-compose up -d (wait a few seconds for Airflow to become ready).
 * Add the hydraulicsystem.py to the "dags" folder and the hydraulicsystemgenerator.py to the "data" folder.
 * In the file hydraulicsystem.py, replace instances of 'your_email' with your actual email address.
-* In docker-composer.yaml, in the email configuration section, add your email address and your email app password (locate "app password" in your Gmail settings and create one).
+* In docker-composer.yaml, in the email configuration section, add your email address and your email app password (IT IS NOT YOUR LOGIN PASSWORD, locate "app password" in your Gmail settings and create one).
 * In the AIRFLOW interface, navigate to "Admin" -> "Variables" and create the variables as shown in the image above.
 
 ![path_file variable](https://github.com/ThiagoRMFagundes/airflow_hydraulic_system_monitor/blob/main/readme_files/airflow_variable.png)
